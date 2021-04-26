@@ -31,3 +31,26 @@
   - Board: CBSE
   - Percentage: 9.8
 
+#### Technical Skills
+- C Language
+- Python
+- Web Technologies
+- Data Base_ Mysql
+- Java
+- Git & Github
+
+#### Projects
+- Title of Project: Protofolio(Digital Profile)
+
+#### LAnguage Proficiency
+- Telugu
+- English
+- Hindi
+
+#### Certifications:
+- Python For Everybody _ Couresra
+- Full Stack Nano Degree _ Udacity
+- MAchine Learning _ Unschool
+- Data Analysis _ NPTEL
+
+
