@@ -5,11 +5,11 @@
 - Iam Prasanna Raj Working in APSSDC. Iam Develop several different projects using Python.
 
 #### Personal Details:
-**Name:** Prasanna Raj M
-**Father's Name:** **********
-**Email:** prasannaraj.m@apssdc.in
-**Phone:** ***********
-**Address:** Rajahmundry
+- **Name:** Prasanna Raj M
+- **Father's Name:** **********
+- **Email:** prasannaraj.m@apssdc.in
+- **Phone:** ***********
+- **Address:** Rajahmundry
 
 #### Educational Detaiis
 - **B.tech**
